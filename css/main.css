@@ -1645,7 +1645,7 @@ footer .copyright .block {
 }
 /* Countdown */
 .countdown.section {
-	background-image: url(../img/countdown-bg.jpg);
+	background-image: url(../img/countdown-bg.jpeg);
 }
 .countdown .heading {
 	margin-bottom: 8em;
@@ -1664,7 +1664,7 @@ footer .copyright .block {
 @media only screen and (min-width: 320px){
 	
 	.countdown.section {
-	background-image: url(../img/countdown-bg.jpg);
+	background-image: url(../img/countdown-bg.jpeg);
     }
 
     .header.section{

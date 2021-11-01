@@ -274,7 +274,7 @@
 			var timeinterval = setInterval(updateClock, 1000);
 		}
 		// set your wedding date here
-		var deadline = 'February 09 2020 16:35:00 GMT+0550';
+		var deadline = 'November 21 2021 16:30:00 GMT+0550';
 		if (countdown){
 			initializeClock('timer', deadline);
 		}
